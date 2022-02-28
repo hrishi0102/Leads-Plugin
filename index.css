@@ -14,10 +14,10 @@ input {
 }
 
 button {
-    background: #5f9341;
+    background: #9be670;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid #000000;
     font-weight: bold;
 }
 
@@ -37,7 +37,7 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color: #2b6da3;
 }
 
 
